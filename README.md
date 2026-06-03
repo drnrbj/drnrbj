@@ -55,4 +55,4 @@
 
 ###
 
-![Dranreb Jay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=drnrbj&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drnrbj&theme=dark&hide_border=true)](https://git.io/streak-stats)
