@@ -3,17 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="60" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,mysql" height="60" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" height="60" />
-</div>
-
-###
-<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -43,8 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-</div> -->
-<!-- ### -->
+</div>
+
+###
 
 <div align="center">
   <a href="https://www.facebook.com/dranrebjay.arzadon" target="_blank">
