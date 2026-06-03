@@ -1,8 +1,6 @@
 <div align="center">
 
-# Dranreb Jay 👋
-
-**Student**
+# Dranreb Jay
 
 </div>
 
