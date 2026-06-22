@@ -2,7 +2,7 @@
 
 # Hi, I'm Dranreb Jay Arzadon
 
-### Aspiring Web Developer | CS Student at University of Mindanao
+### Aspiring Web Developer
 
 </div>
 
@@ -10,12 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying at the **University of Mindanao**
-- 🔭 Currently building: a **weather web app** with Node.js, Express, and OpenWeatherMap API
-- 🌱 Learning: REST API design, TypeScript, and Next.js
-- 🛠️ Portfolio: [DJ Arzadon](https://github.com/drnrbj) — projects built to be employer-ready, not just school requirements
-- 💡 I like dark UIs, clean code, and projects that solve real problems
-- 📬 Reach me at: **jayarzadon213@gmail.com**
+- 🎓 **University of Mindanao** — BS Computer Science
+- 🌱 Currently learning: REST API design, TypeScript, Next.js
+- 💡 Interested in: full-stack web dev, machine learning, cybersecurity
 
 ---
 
@@ -23,7 +20,7 @@
 
 **Frontend**
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
@@ -39,7 +36,7 @@
 
 **Backend**
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="expressjs" />
@@ -55,7 +52,7 @@
 
 **Database & Tools**
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
