@@ -4,8 +4,6 @@
 
 ### Aspiring Web Developer | CS Student at University of Mindanao
 
-*Building projects one commit at a time — from dental clinic CRMs to cyberpunk portfolio sites.*
-
 </div>
 
 ---
