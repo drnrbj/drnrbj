@@ -12,8 +12,6 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student from Davao, Philippines, passionate about turning ideas into real, working software. I gravitate toward full-stack web development, but I'm also exploring machine learning and cybersecurity on the side.
-
 - 🎓 Studying at the **University of Mindanao**
 - 🔭 Currently building: a **weather web app** with Node.js, Express, and OpenWeatherMap API
 - 🌱 Learning: REST API design, TypeScript, and Next.js
