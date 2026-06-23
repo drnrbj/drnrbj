@@ -39,11 +39,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=drnrbj&theme=dark&hide_border=true" />
-  </a>
-</div>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=drnrbj&theme=dark&hide_border=true" />
+</a>
 
 ---
 
