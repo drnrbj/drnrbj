@@ -1,8 +1,4 @@
-<div align="center">
-
 ## Hi, I'm Dranreb Jay Arzadon, an aspiring web developer!
-
-</div>
 
 ## 🧑‍💻 About Me
 
