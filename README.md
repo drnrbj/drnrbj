@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dranreb Jay Arzadon
-
-### Aspiring Web Developer
+# Hi, I'm Dranreb Jay Arzadon, an aspiring web developer!
 
 </div>
 
