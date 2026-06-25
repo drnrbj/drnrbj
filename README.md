@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **University of Mindanao** — BS Computer Science
-- 🌱 Currently learning: REST API design, TypeScript, Next.js
+- 🌱 Currently learning: REST API design, TypeScript, Next.js, Vue.js, MongoDB
 - 💡 Interested in: full-stack web dev, machine learning, cybersecurity
 
 ---
