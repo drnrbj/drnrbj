@@ -1,4 +1,4 @@
-## Hi, I'm Dranreb Jay Arzadon, an aspiring web developer!
+## Hi, I'm Dranreb Jay, an aspiring web developer!
 
 ## 🧑‍💻 About Me
 
